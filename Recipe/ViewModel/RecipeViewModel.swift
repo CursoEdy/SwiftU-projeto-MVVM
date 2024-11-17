@@ -25,7 +25,7 @@ class RecipeViewModel: ObservableObject {
             -...
             -...
             """,
-            recipeImage: "IMGHummus",
+            recipeImage: "IMGhummus",
             recipeURL: "https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwi26IeDguKJAxWRILkGHdoOPQ4QPAgI")
         )
         recipeModels.append(
